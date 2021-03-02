@@ -68,7 +68,7 @@ class Profile extends React.Component {
           </Typography>
           <Divider></Divider>
           <Typography variant="body1" className={classes.research}>
-            Machine Learning, Computer Vision, Statistics, Linear Alzebra, Image Processing, Probability theory, Algorithms.
+            Machine Learning, Computer Vision, Statistics and Linear Alzebra for Machine Learning, Image Processing, Algorithms.
           </Typography>
           <Typography variant="h5" className={classes.title}>
             Skills
