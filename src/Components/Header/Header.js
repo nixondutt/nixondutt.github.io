@@ -169,14 +169,6 @@ class Header extends React.Component {
                   Research
                 </Button>
               </ListItem>
-              <ListItem className={classes.list}>
-                <Button
-                  className={classes.listItem}
-                  onClick={() => this.handlePage(3)}
-                >
-                  Teaching
-                </Button>
-              </ListItem>
               <ListItem>
                 <ExpansionPanel style={{ boxShadow: "none" }}>
                   <ExpansionPanelSummary

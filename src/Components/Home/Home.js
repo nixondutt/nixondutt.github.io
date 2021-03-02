@@ -33,7 +33,7 @@ class Home extends React.Component {
               rel="noopener noreferrer"
               style={{ textDecoration: "none" }}
             >
-              Iwate Prefectural University.
+              Iwate Prefectural University, Japan.
             </a>{" "}
            I am also working as a system developer at an
             IT company namely {" "}
@@ -46,13 +46,13 @@ class Home extends React.Component {
               Cybercore
             </a>{" "}
             
-             , which works in the fields of image processing, image recognition and artificial  intelligence. My job in Cybercore is to use deep learning 
+            , which works in the fields of image processing, image recognition and artificial  intelligence. My job in Cybercore is to use deep learning 
              algorithms  to solve real world problems in the field of computer vision.
              </Typography> 
 
              <Typography variant="body1" className={classes.writings1}>
-             After completing my Bachelor degree in Computer science and Engineering in 
-              Institute of Engineering & Management, I came to Japan to pursue my masters degree under
+             After completing my Bachelor degree in Computer science and Engineering from 
+              Institute of Engineering & Management, India, I came to Japan to pursue my masters degree under
             the supervision of Prof. Basabi Chakraborty.
           
           My current research work involves, trying to find the best algorithms for the detection and classification of breast lesions on digital breast tomosynthesis images.

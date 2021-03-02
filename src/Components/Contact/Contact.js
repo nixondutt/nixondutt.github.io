@@ -28,7 +28,7 @@ class Contact extends React.Component {
             Email: g231s025@s.iwate-pu.ac.jp 
           </Typography>
           <Typography variant="body1" className={classes.writing}>
-            Email : nixondutta402@gmail.com
+            Personal Email : nixondutta402@gmail.com
           </Typography>
         </div>
         <div className={classes.grow}></div>
