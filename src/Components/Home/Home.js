@@ -44,7 +44,7 @@ class Home extends React.Component {
               style={{ textDecoration: "none" }}
             >
               Cybercore
-            </a>{" "}
+            </a>
             
             , which works in the fields of image processing, image recognition and artificial  intelligence. My job in Cybercore is to use deep learning 
              algorithms  to solve real world problems in the field of computer vision.
