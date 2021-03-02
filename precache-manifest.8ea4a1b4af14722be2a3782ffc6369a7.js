@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd982afc45054340acf538092c389b0f",
+    "revision": "eaa351fd7e2a253656d6a38b7a7627ac",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.47271137.chunk.css"
   },
   {
-    "revision": "8e98d2ad8b29b1452bdc",
+    "revision": "98e86929156566984a4c",
     "url": "/static/css/main.bb2f715b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bf7e9a43.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e98d2ad8b29b1452bdc",
-    "url": "/static/js/main.81d8b85d.chunk.js"
+    "revision": "98e86929156566984a4c",
+    "url": "/static/js/main.94198e87.chunk.js"
   },
   {
     "revision": "9b4e396c183e42c1fa5c",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Arcon-Regular.46e0451e.otf"
   },
   {
-    "revision": "0efcbafc13cce65f29b343f3b8112dd8",
-    "url": "/static/media/CV.0efcbafc.pdf"
+    "revision": "47845b504b7da822a4300ae0f2d74042",
+    "url": "/static/media/CV.47845b50.pdf"
   },
   {
     "revision": "1fcf6e20e04d591ed9f8427322ad78ae",
