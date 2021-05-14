@@ -25,8 +25,28 @@ class Research extends React.Component {
           </Typography>
           <Divider></Divider>
           <List>
-            <ListItem>
+          <ListItem>
               <ListItemIcon style={{ fontSize: 20 }}>1</ListItemIcon>
+              <ListItemText>
+                <b className={classes.writings1}>
+                Abnormality Detection in Digital Breast Mammography
+                  <br />
+                </b>
+                <Typography variant="body1" className={classes.body}>
+                 I propose a detection model for masses, calcification and other irregularities in digital mammography images by making a Computer Aided Diagnosis(CAD) system using
+                 anomaly detection and localization. Source code is available{" "}
+                  <a
+                    href="https://github.com/nixondutt/Abnormality-Detection-in-Digital-Breast-Mammography"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    here.
+                  </a>
+                </Typography>
+              </ListItemText>
+            </ListItem>
+            <ListItem>
+              <ListItemIcon style={{ fontSize: 20 }}>2</ListItemIcon>
               <ListItemText>
                 <b className={classes.writings1}>
                  Digital Breast Tomosynthesis Lesion Detection and Classification

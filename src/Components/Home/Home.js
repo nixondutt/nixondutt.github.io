@@ -68,7 +68,8 @@ class Home extends React.Component {
             </a>
             </Typography>
           <Typography variant="body1" className={classes.writings2}>
-            Apart from academic life, my newly found passion is learning new languages. Currently I am trying to pick up Japanese. In my free time I like to cook or go for swimming.
+            Apart from academic life, my newly found passion is learning new languages. Currently I am trying to pick up Japanese. In my free time I like to cook or go for swimming,
+            research about blockchain and stock market.
           </Typography>
         </div>
         <div className={classes.grow}></div>
